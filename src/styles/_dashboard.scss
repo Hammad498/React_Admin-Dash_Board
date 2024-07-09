@@ -51,7 +51,7 @@
                 }
                 >span{
                     font-size: 0.8rem;
-                    @include flex(row,unset,center,0.2rem);
+                    @include flex(row,unset,center,1rem);
                 }
             }
         }
