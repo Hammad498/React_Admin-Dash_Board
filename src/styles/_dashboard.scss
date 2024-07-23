@@ -52,6 +52,10 @@
                 >span{
                     font-size: 0.8rem;
                     @include flex(row,unset,center,0.5rem);
+
+                    >svg{
+                        font-size: 1rem;
+                    }
                 }
             }
         }
